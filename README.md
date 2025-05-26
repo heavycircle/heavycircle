@@ -2,17 +2,53 @@
 
 > *Low-level Software Engineer + Gymrat*
 
-### Current Projects
+<h2>Current Projects</h2>
 
-1. [Tinychain](https://github.com/heavycircle/tinychain) - A cross-compiler toolchain used to build minified, statically-linked binaries.
-2. [Ironforge](https://github.com/ironforgecyber) - An zero-to-hero cybersecurity educational platform.
-3. Autopwn - An automated ELF vulnerability scanner and exploit template developer (*not public yet*)
-4. [Advent of Code](https://github.com/heavycircle/tinychain) - Solving every Advent of Code challenge in x64 assembly without `glibc`.
+<p align="left">
+    <ol>
+        <li>
+            <a href="https://github.com/heavycircle/tinychain">Tinychain</a><br/>
+            A cross-compiler toolchain used to build minified, statically-linked binaries.
+        </li>
+        <li>
+            <a href="https://github.com/ironforgecyber">Ironforge</a><br/>
+            An zero-to-hero cybersecurity educational platform.
+        </li>
+        <li>
+            <a href="https://github.com/heavycircle/minelf">minelf</a><br/>
+            A NASM compiler to generate ultra-minified shellcode-ish ELF binaries.
+        </li>
+        <li>
+            <a href="https://github.com/heavycircle/tinychain">tinychain</a><br/>
+            Solving every Advent of Code challenge in x64 assembly without `glibc`.
+        </li>
+    </ol>
+</p>
 
-### What I Use
+<h2>What I Use</h2>
 
-**Languages**: C, Python, ASM(`x86_64`, `i386`, `arm`), Typescript/HTML/CSS, Lua
+<img align="right" alt="heavycircle" src="https://github-readme-stats.vercel.app/api/top-langs?username=heavycircle&show_icons=true&locale=en&layout=compact&theme=onedark&hide=tex,markdown" />
 
-**Workflow**: Neovim, Tmux, Kitty
 
-**OS**: Debian 12
+<p align="left">
+    <ul>
+    <li>
+        <b>Languages</b>:<br/>
+        C, Python, ASM (x86_64, i386, arm), Typescript/HTML/CSS, Lua
+    </li>
+    <li>
+        <b>Workflow</b>:<br/>
+        Neovim, Tmux, Kitty
+    </li>
+    <li>
+        <b>Workflow</b>:<br/>
+        Debian 12, MacOS
+    </li>
+    </ul>
+</p>
+
+<hr>
+
+<div align="center">
+<a href="https://ironforgecyber.com">IronForgeCyber</a>
+</div>
