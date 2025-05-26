@@ -20,7 +20,7 @@
         </li>
         <li>
             <a href="https://github.com/heavycircle/tinychain">tinychain</a><br/>
-            Solving every Advent of Code challenge in x64 assembly without `glibc`.
+            Solving every Advent of Code challenge in x64 assembly without <code>glibc</code>.
         </li>
     </ol>
 </p>
@@ -41,7 +41,10 @@
         Neovim, Tmux, Kitty
     </li>
     <li>
-        <b>Workflow</b>:<br/>
+        <b>Toolchains</b>:<br/>
+        GDB+GEF, Radare2, Wireshark, Ghidra, NextJS, lazy.nvim, tpm
+    <li>
+        <b>Operating System</b>:<br/>
         Debian 12, MacOS
     </li>
     </ul>
