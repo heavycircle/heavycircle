@@ -15,37 +15,40 @@
             An zero-to-hero cybersecurity educational platform.
         </li>
         <li>
-            <a href="https://github.com/heavycircle/minelf">minelf</a><br/>
-            A NASM compiler to generate ultra-minified shellcode-ish ELF binaries.
+            <a href="https://github.com/heavycircle/bashplug">bashplug</a><br/>
+            An ultra-lightweight bash plugin manager with built-in plugins and features.
         </li>
         <li>
-            <a href="https://github.com/heavycircle/tinychain">tinychain</a><br/>
-            Solving every Advent of Code challenge in x64 assembly without <code>glibc</code>.
+            <a href="https://github.com/heavycircle/advent-of-code">Advent of Code</a><br/>
+            Solving every Advent of Code challenge . . . in Python, C, Bash, and Assembly.
         </li>
     </ol>
 </p>
 
 <h2>What I Use</h2>
 
-<img align="right" alt="heavycircle" src="https://github-readme-stats.vercel.app/api/top-langs?username=heavycircle&show_icons=true&locale=en&layout=compact&theme=onedark&hide=tex,markdown" />
-
+<img
+    align="right" 
+    alt="heavycircle" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=heavycircle&show_icons=true&locale=en&layout=compact&theme=onedark&hide=tex,markdown"
+/>
 
 <p align="left">
     <ul>
     <li>
         <b>Languages</b>:<br/>
-        C, Python, ASM (x86_64, i386, arm), Typescript/HTML/CSS, Lua
+        C, Python, Bash, ASM (x86_64, i386, arm), Typescript/HTML/CSS, Lua
     </li>
     <li>
         <b>Workflow</b>:<br/>
-        Neovim, Tmux, Kitty
+        Neovim, Tmux, Alacritty, Hyprland
     </li>
     <li>
         <b>Toolchains</b>:<br/>
-        GDB+GEF, Radare2, Wireshark, Ghidra, NextJS, lazy.nvim, tpm
+        GDB+GEF, Radare2, Pwntools, Wireshark, Ghidra, NextJS
     <li>
         <b>Operating System</b>:<br/>
-        Debian 12, MacOS
+        Debian 12, Arch Linux, MacOS
     </li>
     </ul>
 </p>
