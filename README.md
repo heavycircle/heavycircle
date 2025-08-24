@@ -1,6 +1,6 @@
 # heavycircle
 
-> *Low-level Software Engineer + Gymrat*
+> _Low-level Software Engineer + Gymrat_
 
 <h2>Current Projects</h2>
 
@@ -30,7 +30,7 @@
 <img
     align="right" 
     alt="heavycircle" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=heavycircle&show_icons=true&locale=en&layout=compact&theme=onedark&hide=tex,markdown"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=heavycircle&layout=compact&langs_count=12&theme=onedark&hide=json,text,css&hide_title=true"
 />
 
 <p align="left">
