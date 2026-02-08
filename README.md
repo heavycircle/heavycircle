@@ -27,13 +27,7 @@
 
 <h2>What I Use</h2>
 
-<img
-    align="right" 
-    alt="heavycircle" 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=heavycircle&layout=compact&langs_count=12&theme=onedark&hide=json,text,css&hide_title=true"
-/>
-
-<p align="left">
+<p>
     <ul>
     <li>
         <b>Languages</b>:<br/>
@@ -52,6 +46,10 @@
     </li>
     </ul>
 </p>
+
+<hr>
+
+<img src="https://wakatime.com/share/@heavycircle/589318f5-03d6-4a48-8d20-7725edfd9424.svg" />
 
 <hr>
 
