@@ -7,19 +7,21 @@
 <p align="left">
     <ol>
         <li>
-            <a href="https://github.com/heavycircle/tinychain">Tinychain</a><br/>
-            A cross-compiler toolchain used to build minified, statically-linked binaries.
+            <a href="https://github.com/heavycircle/kconfig">Kconfig</a><br/>
+            A CLI for reverse-engineering Linux .config files using system kernel modules
+            to combat <code>modversions</code>.
+        </li>
+        <li>
+            <a href="#">Dionysus</a><br/>
+            A bridge between Zig Linux and Windows toolchains for building cross-compiled,
+            statically-linked ELF binaries.
         </li>
         <li>
             <a href="https://github.com/ironforgecyber">Ironforge</a><br/>
             An zero-to-hero cybersecurity educational platform.
         </li>
         <li>
-            <a href="https://github.com/heavycircle/minelf">minelf</a><br/>
-            A NASM compiler to generate ultra-minified shellcode-ish ELF binaries.
-        </li>
-        <li>
-            <a href="https://github.com/heavycircle/tinychain">tinychain</a><br/>
+            <a href="https://github.com/heavycircle/advent-of-code">Advent of Code</a><br/>
             Solving every Advent of Code challenge in x64 assembly without <code>glibc</code>.
         </li>
     </ol>
@@ -38,14 +40,14 @@
     </li>
     <li>
         <b>Workflow</b>:<br/>
-        Neovim, Tmux, Kitty
+        Neovim, Tmux, Alacritty/Ghostty
     </li>
     <li>
         <b>Toolchains</b>:<br/>
         GDB+GEF, Radare2, Wireshark, Ghidra, NextJS, lazy.nvim, tpm
     <li>
         <b>Operating System</b>:<br/>
-        Debian 12, MacOS
+        Fedora, Debian, MacOS
     </li>
     </ul>
 </p>
